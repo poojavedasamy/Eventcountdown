@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#one{
+    background-color:#000080;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+#p{
+    padding: 30px;
+}
+#onee{
+    text-align: center;
+    padding: 30px;
+    background-color: #000080;
+    color:white;
+    display:block;
+    margin: 1px;
+}
+.box{
+    width: 100%;
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+.boxx{
+    padding: 20px;
+    background-color:pink;
+    color:black;
+    display: inline-block;
+    width: 300px;
+    height: 100px;
+    vertical-align: middle;
+}
+#countdown{
+    text-align: center;
+    padding: 40px;
+    font-size: 20px;
+}
+#inp{
+    text-align: center;
+    padding: 20px;
+}
